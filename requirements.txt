@@ -28,7 +28,7 @@ google-auth-httplib2
 google-generativeai
 googleapis-common-protos
 grpcio==1.68.0
-grpcio-status==1.68.0
+grpcio-status
 httplib2==0.22.0
 huggingface-hub==0.26.2
 humanfriendly==10.0
